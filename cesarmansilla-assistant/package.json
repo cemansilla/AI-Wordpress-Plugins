@@ -1,0 +1,15 @@
+{
+  "name": "cesarmansilla-assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "cesarmansilla",
+  "license": "GPL-2.0-only",
+  "devDependencies": {
+    "@wordpress/scripts": "26.0.0"
+  }
+}
