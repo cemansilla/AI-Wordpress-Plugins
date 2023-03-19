@@ -2,7 +2,7 @@
 /*
 Plugin Name: Cesar Mansilla 1. Core
 Description: Plugin core del ecosistema Cesar Mansilla
-Version: 1.0.0
+Version: 1.0.1
 Author: Cesar Mansilla
 Author URI: https://cesarmansilla.com.ar
 */
